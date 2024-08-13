@@ -88,7 +88,7 @@ This document provides details on the configuration of the S3 bucket named `tech
   
   ## Restrict Access to S3 Management Console
   
-  ```
+```
   {
     "Version": "2012-10-17",
     "Statement": [
@@ -105,7 +105,6 @@ This document provides details on the configuration of the S3 bucket named `tech
         }
     ]
 }
-
 ```
 
 ## Set Up ACL for Specific Folder Access
@@ -131,4 +130,19 @@ Simulate Access Scenarios:
 Access content with the static website URL to verify public access.
 Test restricted access by attempting to access the S3 management console with unauthorized users.
 Validate folder-specific access by using the credentials of the external user.
+
+## Outputs:
+
+![Screenshot from 2024-08-13 15-56-37](https://github.com/user-attachments/assets/6b776fd9-19e5-4501-a4b6-1924d1a1adff)
+![Screenshot from 2024-08-13 15-56-46](https://github.com/user-attachments/assets/6feae000-1eca-4737-bc0b-5b3610f0c2b5)
+![Screenshot from 2024-08-13 15-57-00](https://github.com/user-attachments/assets/eff59a88-1b97-4ee0-850a-a1f250d8c786)
+![Screenshot from 2024-08-13 15-57-11](https://github.com/user-attachments/assets/be545fcf-724a-4067-a1c1-4318c760a559)
+![Screenshot from 2024-08-13 15-57-20](https://github.com/user-attachments/assets/5d911020-8b8a-4ae1-aa2e-c8a6df46c93b)
+![Screenshot from 2024-08-13 15-57-35](https://github.com/user-attachments/assets/057f0cd0-2209-4555-8c3a-443e303dba60)
+
+
+
+
+
+
 
