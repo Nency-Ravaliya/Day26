@@ -139,6 +139,10 @@ Validate folder-specific access by using the credentials of the external user.
 ![Screenshot from 2024-08-13 15-57-11](https://github.com/user-attachments/assets/be545fcf-724a-4067-a1c1-4318c760a559)
 ![Screenshot from 2024-08-13 15-57-20](https://github.com/user-attachments/assets/5d911020-8b8a-4ae1-aa2e-c8a6df46c93b)
 ![Screenshot from 2024-08-13 15-57-35](https://github.com/user-attachments/assets/057f0cd0-2209-4555-8c3a-443e303dba60)
+![image](https://github.com/user-attachments/assets/66698921-a6bf-4e18-af74-df0427b1ae26)
+![image](https://github.com/user-attachments/assets/351c6409-c538-47db-951e-d3fece87dafc)
+
+
 
 
 
