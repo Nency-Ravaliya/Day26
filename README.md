@@ -107,6 +107,8 @@ This document provides details on the configuration of the S3 bucket named `tech
 }
 ```
 
+# website URL: http://techvista-portfolio-nensi.s3-website-us-east-1.amazonaws.com/
+
 ## Set Up ACL for Specific Folder Access
 
 - Navigate to the Permissions tab of the bucket.
